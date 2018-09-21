@@ -1,5 +1,8 @@
 _repo: The-Life-Story-of-an-Otter_54872
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54872-h/images/cover.jpg
 creator:
   author:
     agent_name: Tregarthen, J. C. (John Coulson)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '44723'
     url: http://www.gutenberg.org/2009/agents/44723
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54872#The-Life-Story-of-an-Otter
 gutenberg_issued: '2017-06-09'
 gutenberg_type: Text
 identifiers:
